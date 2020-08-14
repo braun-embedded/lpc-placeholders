@@ -1,0 +1,9 @@
+[package]
+name    = "lpc82x-hal"
+version = "0.5.0"
+authors = ["Hanno Braun <hanno@braun-embedded.com>"]
+edition = "2018"
+
+description = "DEPRECATED. Please use lpc8xx-hal."
+license     = "0BSD"
+readme      = "README.md"
